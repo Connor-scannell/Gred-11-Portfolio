@@ -1,0 +1,115 @@
+
+
+body{
+    background-color:#d9d9d9;
+    
+}
+#menu_bar{
+font-family:fantasy;
+    background-image:
+    url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY2Xe46I28Hmh5Lpf0tQw4yuuAULAlOymspbRoR6fHnArpuySXUg);
+    height:25%;
+}
+.menu_item
+{
+    font-size:150%;
+    text-align:center;
+    border-style:solid; 
+    border-left-color:grey;
+    border-right-color:grey;
+    border-bottom-width:0;
+    border-top-width:0;
+    max-height:15%;
+    color:aliceblue;
+}
+.menu_itemX
+{
+    font-size:150%;
+    text-align:center;
+    border-style:solid; 
+    border-left-color:dodgerblue;
+    border-right-color:dodgerblue;
+    border-bottom-width:0;
+    border-top-width:0;
+    max-height:15%;
+    color:aliceblue;
+    opacity:0.5;
+}
+.menu_item:hover{
+    color:dodgerblue;
+background-color:#999999;
+    
+}
+.menu_itemX:hover{
+    color:dodgerblue;
+background-color:#999999;
+    
+}
+.menu_item{
+    
+    width:14.2857%;
+    
+}
+#RP1{
+    background-image:url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY2Xe46I28Hmh5Lpf0tQw4yuuAULAlOymspbRoR6fHnArpuySXUg);
+width:100%;
+    height:100%;
+    color:dodgerblue;
+    font-size:150%;
+    font-family:fantasy;
+
+}
+#RP2{
+    background-image:url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY2Xe46I28Hmh5Lpf0tQw4yuuAULAlOymspbRoR6fHnArpuySXUg);
+width:100%;
+    height:100%;
+    color:dodgerblue;
+    font-size:150%;
+    font-family:fantasy;
+    float:right;
+}
+a:link{
+    color:white;
+    text-decoration:none; 
+    
+}
+a:visited{
+       color:white;
+    text-decoration:none; 
+    
+    
+}
+a:hover{
+    color:dodgerblue;
+    text-decoration:underline; 
+    size:180%;
+}
+#top{
+    text-align:center;
+    background-image:url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY2Xe46I28Hmh5Lpf0tQw4yuuAULAlOymspbRoR6fHnArpuySXUg);
+    color:dodgerblue;
+    font-family:fantasy;
+}
+footer{
+    background-image:url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY2Xe46I28Hmh5Lpf0tQw4yuuAULAlOymspbRoR6fHnArpuySXUg);
+    color:dodgerblue;
+    text-align:center;
+}
+#main_pic{
+    width:100%;
+        height:50%
+
+    
+}
+#BaseT{
+    border-style:solid;
+    border-width:1px;
+}
+.Listlnk{
+ 
+    
+}
+.MT{
+width:20%;
+    height:50%;
+}

@@ -1,0 +1,23 @@
+ {
+border-width:1px;
+border-style:dashed;
+border-color:black;
+}
+#Item{
+border-width-bottom:10px;
+border-width-left:2px;
+border-width-right:2px;
+border-style:solid;
+border-color:blue;
+}
+a {
+text-decoration-color:white; 
+
+}
+#TableFav{
+	background-color:lightblue; 
+}
+a:hover{
+color:blue;
+font-size:30px; 
+}
